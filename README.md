@@ -1,6 +1,6 @@
 # This repo covers the implementation for our paper Geb
 
-Zhenzhong Wang, Qingyuan Zeng, Wanyu Lin, Min Jiang, and Kaychen Tan. "Wang, Zhenzhong, et al. "Generating diagnostic and actionable explanations for fair graph neural networks," Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
+Zhenzhong Wang, Qingyuan Zeng, Wanyu Lin*, Min Jiang, and Kaychen Tan. "Wang, Zhenzhong, et al. "Generating diagnostic and actionable explanations for fair graph neural networks," Proceedings of the AAAI Conference on Artificial Intelligence, 2024.
 
 Dependencies
 -----
